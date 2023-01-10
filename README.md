@@ -4,11 +4,11 @@
 
 <h3 align="left">My information:</h3>
 
-- 🌱 I’m currently learning: SwiftUI, Combine, RxSwift, Design Patterns
+- 🌱 I’m currently learning: Architecture Patterns,  Design Patterns
 
 - 📖 My iOS knowledges: **https://kien-bradley.gitbook.io/ios-world/**
 
-- 📫 Reach me at **htkien.dev@gmail.com**
+- 📫 Reach me at **htkien.dev@gmail.com** or **https://www.linkedin.com/in/kien-ht/**
 
 Liked some of my work? Buy me a coffee (or more likely a beer)
 
