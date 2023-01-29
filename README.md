@@ -21,3 +21,6 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kien-hoang&show_icons=true&locale=en&theme=dracula" alt="kien-hoang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kien-hoang&theme=dracula" alt="kien-hoang" /></p>
+
+<code>Visitor count</code> <br>
+![Visitor Count](https://profile-counter.glitch.me/kien-hoang/count.svg)
