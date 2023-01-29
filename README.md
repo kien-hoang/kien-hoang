@@ -22,5 +22,6 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kien-hoang&theme=dracula" alt="kien-hoang" /></p>
 
-<code>Visitor count</code> <br>
+<h3 align="left">Visitor count:</h3>
+
 ![Visitor Count](https://profile-counter.glitch.me/kien-hoang/count.svg)
