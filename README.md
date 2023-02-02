@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kien (Bradley) Hoang</h1>
 <h3 align="center">An iOS Developer from Viet Nam</h3>
-<p align="left">With over 2+ years of experience in iOS development, which includes understanding requirement specifications, working on software design, coding, testing and maintenance. I have good knowledge of Architect Patterns and Design Patterns.</p>
+<p align="left">With over 5+ years of experience in iOS development, which includes understanding requirement specifications, working on software design, coding, testing and maintenance. I have good knowledge of Architect Patterns and Design Patterns.</p>
 
 <h3 align="left">My information:</h3>
 
@@ -8,7 +8,7 @@
 
 - 📖 My iOS knowledges: **https://kien-bradley.gitbook.io/ios-world/**
 
-- 📫 Reach me at **htkien.dev@gmail.com** or **https://www.linkedin.com/in/kien-ht/**
+- 📫 Reach me at **htkien.dev@gmail.com**
 
 Liked some of my work? Buy me a coffee (or more likely a beer)
 
