@@ -55,9 +55,9 @@
   <a href="https://stdiohue.com/">
     <img src="https://stdiohue.com/images/logo.svg" height=50>
   </a>
-  <a href="[https://selisegroup.com/](https://www.facebook.com/shapeecloud)">
-    <img src="[https://selisegroup.com/wp-content/uploads/2020/11/SELISE-DIgital-Platforms-.png](https://scontent.fdad3-4.fna.fbcdn.net/v/t1.6435-9/161775841_209451360975524_7338483822024986697_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=BbMH7UcRoqcAX9QgJIj&_nc_ht=scontent.fdad3-4.fna&oh=00_AfD3gpJiJ6ZsMMJxdZaAzmNzf-tVNfRV_FZbESGtPqnAJA&oe=640FC6B1)" height=50>
-    </a> 
+  <a href="https://www.facebook.com/shapeecloud">
+    <img src="https://scontent.fdad3-4.fna.fbcdn.net/v/t1.6435-9/161775841_209451360975524_7338483822024986697_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=BbMH7UcRoqcAX9QgJIj&_nc_ht=scontent.fdad3-4.fna&oh=00_AfD3gpJiJ6ZsMMJxdZaAzmNzf-tVNfRV_FZbESGtPqnAJA&oe=640FC6B1" height=50>
+   </a> 
 </p>
 
 #### What are my recent highlights?
