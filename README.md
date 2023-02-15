@@ -13,7 +13,7 @@
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/kien-ht/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **[Essential Developer Community](https://www.essentialdeveloper.com/)**.
 - 📚 Currently learning about **Unit Test**, **TDD**, **Modular Design**, and **Clean Architecture**.
 - 👯 Looking to collaborate on **Swift projects**.
-- 🥰 Building **[Portrait Camera](https://github.com/kien-hoang/portrait_camera_effect)**, **[MVP-R](https://github.com/kien-hoang/TMDB-Movies-MVP-R)**, **[VIP](https://github.com/kien-hoang/TMDB-Movies-VIP)** & **[Vietnamese Blogs](https://kien-bradley.gitbook.io/ios-world/blogs-+-practices)** as pet projects.
+- 🥰 Building **[Portrait Camera](https://github.com/kien-hoang/portrait_camera_effect)**, **[MVP-R](https://github.com/kien-hoang/TMDB-Movies-MVP-R)**, **[VIP](https://github.com/kien-hoang/TMDB-Movies-VIP)** & **[Vietnamese Blogs](https://viblo.asia/u/htkien99)** as pet projects.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `unit test` `TDD` `BDD` `architecture patterns` `design patterns` `system design` `scalability` `data structures` `clean code` and `choice of frameworks`.
