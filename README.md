@@ -64,9 +64,9 @@
 - [featured-blurring-background-on-camera-like-iphone-native-camera](https://github.com/kien-hoang/portrait_camera_effect)
 - [model-view-presenter-router-architecture](https://github.com/kien-hoang/TMDB-Movies-MVP-R)
 
-#### Other things:
-- Reach me at **htkien.dev@gmail.com**
-- Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/kien-hoang/count.svg)
-- Liked some of my work? Buy me a coffee (or more likely a beer)
+#### How can you contact me for work?
+- Email: **htkien.dev@gmail.com**
+- Linkedin: **https://www.linkedin.com/in/kien-ht/**
 
-<a href="https://www.buymeacoffee.com/kienht" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
+---
+- Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/kien-hoang/count.svg)
