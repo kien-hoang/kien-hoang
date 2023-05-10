@@ -3,7 +3,7 @@
 #### Who I am?
 - My original name is **Hoang Trong Kien**. My english name is **Bradley**
 - A mobile engineer based in **[Da Nang](https://en.wikipedia.org/wiki/Da_Nang), [Vietnam](https://en.wikipedia.org/wiki/Vietnam).** 
-- Have 2 years of hands-on experience in **iOS application development.**
+- Have 3 years of hands-on experience in **iOS application development.**
 - Developed products for **e-commerce, financial service** and **trade stocks** business domains.
 - Have built **native** apps targeting **iOS platform** ecosystems in **MVP, VIPER** architectures.
 
