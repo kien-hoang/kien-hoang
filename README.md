@@ -28,7 +28,8 @@
   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Google Sheet](https://www.google.com/intl/en/sheets/about/) • [Notion](https://www.notion.so/)
   - **🗂 CI/CD:** • [Fastlane](https://fastlane.tools/)• [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/) • [App Center](https://appcenter.ms/) 
 - 🧙‍♂️ **Coding pattern & principles:**
-  - **⚒ Patterns:**  • [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern) • [Observer](https://en.wikipedia.org/wiki/Observer_pattern) • [Strategy](https://en.wikipedia.org/wiki/Strategy_pattern) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) • [Clean Architecture](https://en.wikipedia.org/wiki/Robert_C._Martin)
+  - **⚒ Patterns:**  • [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern) • [Builder](https://en.wikipedia.org/wiki/Builder_pattern) • [Observer](https://en.wikipedia.org/wiki/Observer_pattern) • [Strategy](https://en.wikipedia.org/wiki/Strategy_pattern)
+  - **⚒ Architectures:** • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) • [Clean Architecture](https://en.wikipedia.org/wiki/Robert_C._Martin)
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   
 - **🏗️ Code editors:**
