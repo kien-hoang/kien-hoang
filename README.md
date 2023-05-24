@@ -57,7 +57,7 @@
     <img src="https://stdiohue.com/images/logo.svg" height=50>
   </a>
   <a href="https://www.facebook.com/shapeecloud">
-    <img src="https://scontent.fhan3-3.fna.fbcdn.net/v/t1.6435-9/161775841_209451360975524_7338483822024986697_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=QBgmZoaQEC4AX8PYIfI&_nc_ht=scontent.fhan3-3.fna&oh=00_AfBdBk5pLYg5I1qVE02m22tPSytfPtJibDT9dLHTdPcVdw&oe=6469DD31" height=50>
+    <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.6435-9/161775841_209451360975524_7338483822024986697_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=krU0Maz486wAX-mqaVp&_nc_ht=scontent.fdad2-1.fna&oh=00_AfB5FhoCJfnClGcRMkKw0f4HDamIwSlAssDxKwT2Xuvuxw&oe=64955EB1" height=50>
    </a> 
 </p>
 
