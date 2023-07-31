@@ -8,7 +8,7 @@
 - Have built **native** apps targeting **iOS platform** ecosystems in **MVP, MVVM and VIPER** architectures.
 
 #### What I'm doing?
-- 🏢 Working at **[Spartan Dev](https://www.linkedin.com/company/spartandev/)** as a **Software Engineer**.
+- 🏢 Working at **[Spartan Dev](https://spartan-dev.io/)** as a **Software Engineer**.
 - 👨‍💻 Writing `Swift` `Objective-C`, `Kotlin`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/kien-ht/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
 - 📚 Currently learning about **Professional Scrum Master (PSM1)**, **RxSwift**, **MVVM-C**, and **Unit Test**.
@@ -50,7 +50,7 @@
 
 #### What companies have I worked for?
 <p left="center">
-  <a href="https://www.linkedin.com/company/spartandev/">
+  <a href="https://spartan-dev.io/">
     <img src="https://media.licdn.com/dms/image/D560BAQHemEzEHaLRHA/company-logo_200_200/0/1689051196816?e=1698278400&v=beta&t=4L-rVlIfGHn7cLtdQpW6v-GNlAlQWaSVjpRq8aDlTSg" height=50> 
   </a>
   <a href="https://teko.vn/">
