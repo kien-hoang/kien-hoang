@@ -170,7 +170,7 @@ I'm **Kien Hoang** — Software Engineer with 6+ years of experience shipping iO
 ![IoT & Energy Systems](https://img.shields.io/badge/IoT_&_Energy_Systems-059669?style=flat-square)
 
 - 💬 How to scale mobile apps and design systems that last
-- 📱 Deep dives into SwiftUI, Swift Concurrency, and TCA
+- 📱 Deep dives into SwiftUI, Swift Concurrency
 - 🤖 Building smarter with AI agents and modern dev workflows
 
 ---
