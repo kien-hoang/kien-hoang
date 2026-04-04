@@ -205,10 +205,9 @@ Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, pr
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kien-hoangt&theme=tokyonight" width="55%" />
-  <img src="https://streak-stats.demolab.com/?user=kien-hoangt&theme=tokyonight&hide_border=true" width="41%" />
-</p>
+| Profile Overview | Contribution Streak |
+| :-: | :-: |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kien-hoangt&theme=tokyonight" /> | <img src="https://streak-stats.demolab.com/?user=kien-hoangt&theme=tokyonight&hide_border=true" /> |
 
 ---
 
