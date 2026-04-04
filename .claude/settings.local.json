@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Read(//private/tmp/**)",
+      "Bash(unzip -o \"/Users/htkien/Documents/iCloudDocuments/backupfiles/CV/CV-20241502.docx\" -d cv_extract)",
+      "Bash(curl -s https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/README.md)",
+      "Bash(curl -s https://raw.githubusercontent.com/Platane/Platane/master/README.md)",
+      "Bash(curl -s https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/README.md)",
+      "Bash(curl -s https://raw.githubusercontent.com/thmsgbrt/thmsgbrt/master/README.md)",
+      "Bash(curl -s https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/README.md)",
+      "Bash(curl -s https://raw.githubusercontent.com/codestackr/codestackr/master/README.md)",
+      "Bash(curl -s https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/main/README.md)",
+      "Bash(curl -s https://raw.githubusercontent.com/guilyx/guilyx/master/README.md)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:www.intrinsicpower.com)",
+      "Bash(curl -s https://github.com/kien-hoangt)",
+      "Bash(curl:*)",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
