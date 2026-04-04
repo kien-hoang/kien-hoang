@@ -35,41 +35,40 @@ Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, pr
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
-![Core Animation](https://img.shields.io/badge/Core_Animation-5856D6?style=flat-square&logo=apple&logoColor=white)
-![WidgetKit](https://img.shields.io/badge/WidgetKit-30B0C7?style=flat-square&logo=apple&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-FA7343?style=flat-square&logo=apple&logoColor=white)
 ![Core Data](https://img.shields.io/badge/Core_Data-333333?style=flat-square&logo=apple&logoColor=white)
 ![SwiftData](https://img.shields.io/badge/SwiftData-007AFF?style=flat-square&logo=apple&logoColor=white)
 ![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-FA7343?style=flat-square&logo=swift&logoColor=white)
-![APNs](https://img.shields.io/badge/APNs-000000?style=flat-square&logo=apple&logoColor=white)
-![AVFoundation](https://img.shields.io/badge/AVFoundation-1C1C1E?style=flat-square&logo=apple&logoColor=white)
-![Vision](https://img.shields.io/badge/Vision-30B0C7?style=flat-square&logo=apple&logoColor=white)
-![Core Location](https://img.shields.io/badge/Core_Location-4CD964?style=flat-square&logo=apple&logoColor=white)
-![MapKit](https://img.shields.io/badge/MapKit-34C759?style=flat-square&logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-FA7343?style=flat-square&logo=apple&logoColor=white)
 ![StoreKit](https://img.shields.io/badge/StoreKit-0071E3?style=flat-square&logo=apple&logoColor=white)
 ![HealthKit](https://img.shields.io/badge/HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white)
+![APNs](https://img.shields.io/badge/APNs-000000?style=flat-square&logo=apple&logoColor=white)
+![Core Location](https://img.shields.io/badge/Core_Location-4CD964?style=flat-square&logo=apple&logoColor=white)
+![MapKit](https://img.shields.io/badge/MapKit-34C759?style=flat-square&logo=apple&logoColor=white)
+![AVFoundation](https://img.shields.io/badge/AVFoundation-1C1C1E?style=flat-square&logo=apple&logoColor=white)
+![Core Animation](https://img.shields.io/badge/Core_Animation-5856D6?style=flat-square&logo=apple&logoColor=white)
+![WidgetKit](https://img.shields.io/badge/WidgetKit-30B0C7?style=flat-square&logo=apple&logoColor=white)
+![Vision](https://img.shields.io/badge/Vision-30B0C7?style=flat-square&logo=apple&logoColor=white)
+
 
 **iOS — Third-Party Libraries**
 
+![SPM](https://img.shields.io/badge/SPM-FA7343?style=flat-square&logo=swift&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white)
 ![Alamofire](https://img.shields.io/badge/Alamofire-E34F26?style=flat-square&logoColor=white)
 ![Moya](https://img.shields.io/badge/Moya-FF6B6B?style=flat-square&logoColor=white)
 ![Kingfisher](https://img.shields.io/badge/Kingfisher-FF9500?style=flat-square&logoColor=white)
 ![SDWebImage](https://img.shields.io/badge/SDWebImage-E44D26?style=flat-square&logoColor=white)
+![Swinject](https://img.shields.io/badge/Swinject-FF6F00?style=flat-square&logoColor=white)
+![SwiftLint](https://img.shields.io/badge/SwiftLint-E34F26?style=flat-square&logoColor=white)
+![R.swift](https://img.shields.io/badge/R.swift-FA7343?style=flat-square&logoColor=white)
+![Tuist](https://img.shields.io/badge/Tuist-6236FF?style=flat-square&logoColor=white)
+![XcodeGen](https://img.shields.io/badge/XcodeGen-147EFB?style=flat-square&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Firebase SDK](https://img.shields.io/badge/Firebase_SDK-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
 ![TCA](https://img.shields.io/badge/TCA-7B1FA2?style=flat-square&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![Swinject](https://img.shields.io/badge/Swinject-FF6F00?style=flat-square&logoColor=white)
-![Resolver](https://img.shields.io/badge/Resolver-5C6BC0?style=flat-square&logoColor=white)
-![SnapKit](https://img.shields.io/badge/SnapKit-1DA1F2?style=flat-square&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=flat-square&logoColor=white)
-![SwiftLint](https://img.shields.io/badge/SwiftLint-E34F26?style=flat-square&logoColor=white)
-![R.swift](https://img.shields.io/badge/R.swift-FA7343?style=flat-square&logoColor=white)
-![Tuist](https://img.shields.io/badge/Tuist-6236FF?style=flat-square&logoColor=white)
-![XcodeGen](https://img.shields.io/badge/XcodeGen-147EFB?style=flat-square&logoColor=white)
-![SPM](https://img.shields.io/badge/SPM-FA7343?style=flat-square&logo=swift&logoColor=white)
-![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white)
 ![Swift Testing](https://img.shields.io/badge/Swift_Testing-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 **Backend**
@@ -81,27 +80,28 @@ Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, pr
 
 **Database**
 
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase/Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase/Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+
 
 **Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
 **CI/CD & Distribution**
 
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Xcode Cloud](https://img.shields.io/badge/Xcode_Cloud-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
 
 **Testing**
 
@@ -141,8 +141,8 @@ Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, pr
 
 **AI-Powered Development**
 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
@@ -204,6 +204,11 @@ Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, pr
 ---
 
 ## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kien-hoangt&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=kien-hoangt&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kien-hoangt&theme=tokyonight" />
