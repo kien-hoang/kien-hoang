@@ -19,7 +19,7 @@ Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, pr
 - 🚀 Domains I've shipped in: **EV charging & energy management**, **AI-powered apps**, **live streaming**, **e-commerce**, **fintech**, **social networking**
 - 🏗️ Built apps using **MVVM**, **MVP**, **VIP**, **TCA**, and **Clean Architecture** — I care deeply about maintainable code
 - 🤖 Leverage **AI tools** (Cursor, Claude Code, Codex) to move fast and take on diverse engineering challenges
-- 📦 22 public repos on GitHub exploring iOS architecture, design patterns, and reactive programming
+- 📦 Exploring iOS architecture, design patterns, and reactive programming
 
 ---
 
