@@ -16,7 +16,10 @@
       "WebFetch(domain:www.intrinsicpower.com)",
       "Bash(curl -s https://github.com/kien-hoangt)",
       "Bash(curl:*)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:github-profile-summary-cards.vercel.app)",
+      "Bash(git rm:*)",
+      "Bash(git add:*)"
     ]
   }
 }
