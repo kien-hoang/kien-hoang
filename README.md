@@ -95,8 +95,7 @@ Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, pr
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kien-hoangt&theme=tokyonight&utcOffset=7" width="49.6%" />
-  <img src="https://streak-stats.demolab.com/?user=kien-hoangt&theme=tokyonight&hide_border=true" width="49.6%" />
+  <img src="https://streak-stats.demolab.com/?user=kien-hoangt&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
