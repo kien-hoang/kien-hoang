@@ -13,13 +13,12 @@
 
 ## About Me
 
-Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, primarily in iOS but increasingly full-stack.
+I'm **Kien Hoang** — Software Engineer with 6+ years of experience shipping iOS apps and full-stack products. Currently at **Spartan**.
 
-- 🏢 Currently at **Spartan**, building products across iOS (SwiftUI), backend (Go, Kotlin), and web
-- 🚀 Domains I've shipped in: **EV charging & energy management**, **AI-powered apps**, **live streaming**, **e-commerce**, **fintech**, **social networking**
-- 🏗️ Built apps using **MVVM**, **MVP**, **VIP**, **TCA**, and **Clean Architecture** — I care deeply about maintainable code
-- 🤖 Leverage **AI tools** (Cursor, Claude Code, Codex) to move fast and take on diverse engineering challenges
-- 📦 Exploring iOS architecture, design patterns, and reactive programming
+- 📱 Shipped **10+ apps** to the App Store across **EV charging, AI, fintech, e-commerce**, and **live streaming** domains
+- 🏗️ Built **3+ products from scratch** — iOS (SwiftUI), backend (Go, Kotlin), and web dashboards
+- 👥 Led and collaborated in teams of **5+ engineers**, driving architecture decisions and code quality
+- ⚡ Ship fast with modern tooling — clean architecture, CI/CD automation, and AI-assisted development
 
 ---
 
@@ -47,8 +46,7 @@ Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, pr
 ![AVFoundation](https://img.shields.io/badge/AVFoundation-1C1C1E?style=flat-square&logo=apple&logoColor=white)
 ![Core Animation](https://img.shields.io/badge/Core_Animation-5856D6?style=flat-square&logo=apple&logoColor=white)
 ![WidgetKit](https://img.shields.io/badge/WidgetKit-30B0C7?style=flat-square&logo=apple&logoColor=white)
-![Vision](https://img.shields.io/badge/Vision-30B0C7?style=flat-square&logo=apple&logoColor=white)
-
+![Vision](https://img.shields.io/badge/Vision-5AC8FA?style=flat-square&logo=apple&logoColor=white)
 
 **iOS — Third-Party Libraries**
 
@@ -69,7 +67,6 @@ Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, pr
 ![TCA](https://img.shields.io/badge/TCA-7B1FA2?style=flat-square&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=flat-square&logoColor=white)
-![Swift Testing](https://img.shields.io/badge/Swift_Testing-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 **Backend**
 
@@ -78,72 +75,63 @@ Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, pr
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logoColor=white)
 
-**Database**
-
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase/Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-
-
-**Cloud & Infrastructure**
-
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-
-**CI/CD & Distribution**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Xcode Cloud](https://img.shields.io/badge/Xcode_Cloud-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
-
-**Testing**
-
-![XCTest](https://img.shields.io/badge/XCTest-FA7343?style=flat-square&logo=apple&logoColor=white)
-![Swift Testing](https://img.shields.io/badge/Swift_Testing-FA7343?style=flat-square&logo=swift&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-4CAF50?style=flat-square&logoColor=white)
-
-**Version Control**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
-
-**Project Management**
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-
-**Design & Diagramming**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=flat-square&logo=excalidraw&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
-
-**API & Debugging**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-8E8E93?style=flat-square&logoColor=white)
-
-**Monitoring**
-
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-
 **AI-Powered Development**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+
+<details>
+<summary><b>Database & Cloud</b></summary>
+<br/>
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase/Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>CI/CD & Testing</b></summary>
+<br/>
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Xcode Cloud](https://img.shields.io/badge/Xcode_Cloud-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
+![XCTest](https://img.shields.io/badge/XCTest-FA7343?style=flat-square&logo=apple&logoColor=white)
+![Swift Testing](https://img.shields.io/badge/Swift_Testing-FA7343?style=flat-square&logo=swift&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-4CAF50?style=flat-square&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Tools & Workflow</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=flat-square&logo=excalidraw&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-8E8E93?style=flat-square&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+
+</details>
 
 ---
 
@@ -174,23 +162,16 @@ Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, pr
 
 ---
 
-## Currently Exploring
+## Interests & Learning
 
 ![AI/LLM Agents & Tools](https://img.shields.io/badge/AI%2FLLM_Agents_&_Tools-0891B2?style=flat-square)
 ![System Design & Distributed Systems](https://img.shields.io/badge/System_Design_&_Distributed_Systems-0E7490?style=flat-square)
 ![Technical Leadership](https://img.shields.io/badge/Technical_Leadership-1E40AF?style=flat-square)
-![Advanced Design Patterns](https://img.shields.io/badge/Advanced_Design_Patterns-6D28D9?style=flat-square)
 ![IoT & Energy Systems](https://img.shields.io/badge/IoT_&_Energy_Systems-059669?style=flat-square)
 
----
-
-## What I Like to Discuss
-
-- 💬 Architecture patterns, system design, and scalability
-- 🧹 Clean code, SOLID principles, and maintainable codebases
-- 📱 SwiftUI, Swift Concurrency, and TCA
-- ⚡ Reactive programming and performance optimization
-- 🤖 AI-powered development and LLM agents
+- 💬 How to scale mobile apps and design systems that last
+- 📱 Deep dives into SwiftUI, Swift Concurrency, and TCA
+- 🤖 Building smarter with AI agents and modern dev workflows
 
 ---
 

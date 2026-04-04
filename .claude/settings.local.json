@@ -19,7 +19,10 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:github-profile-summary-cards.vercel.app)",
       "Bash(git rm:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(grep -l \"align=\\\\\"left\\\\\"\\\\|align=\\\\\"right\\\\\"\" /tmp/awesome-github-profile-readme-templates/templates/*.md)",
+      "WebFetch(domain:dev.to)",
+      "WebFetch(domain:4geeks.com)"
     ]
   }
 }
