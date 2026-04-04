@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/kien-hoangt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&height=80&lines=iOS+Engineer+%7C+Full-Stack+Builder;IoT+%C2%B7+EV+Charging+%C2%B7+Energy+%C2%B7+AI;Da+Nang%2C+Vietnam" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&height=80&lines=Kien+Hoang;iOS+Engineer+%7C+Software+Engineer;Da+Nang%2C+Vietnam;Ship+Fast%2C+Build+to+Last" alt="Typing SVG" />
   </a>
 
   <br/>
