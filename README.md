@@ -95,16 +95,8 @@ Hi! I'm **Kien Hoang** — a Software Engineer with ~5.5 years of experience, pr
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kien-hoangt&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kien-hoangt&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kien-hoangt&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kien-hoangt&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kien-hoangt&theme=tokyonight&utcOffset=7" width="49.6%" />
+  <img src="https://streak-stats.demolab.com/?user=kien-hoangt&theme=tokyonight&hide_border=true" width="49.6%" />
 </p>
 
 ---
